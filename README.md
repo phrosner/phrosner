@@ -44,36 +44,12 @@ Glasses capable of converting speech into text to assist people with hearing imp
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phrosner&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phrosner&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=phrosner&theme=tokyonight"/>
 </p>
-
----
-
-## 💡 Currently Learning
-
-- Advanced Java & Spring Boot  
-- Data Structures & Algorithms  
-- Backend Architecture  
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Get a high-level internship in software engineering  
-- 🌍 International academic experience  
-- 🏗️ Build scalable backend systems  
 
 ---
 
