@@ -26,8 +26,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/pedro-rosner-baa92b27a)
 
----
 
-## 📊 Estatísticas GitHub
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrosner&show_icons=true&theme=tokyonight)
